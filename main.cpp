@@ -2,12 +2,13 @@
 //  main.cpp
 //  lcs-ints
 //
-//  Created by mndx on 24/10/2021.
+//  Created by dwh on 24/10/2021.
 //
 
 #include <cstdlib>
 #include <iostream>
 #include <vector>
+#include <time.h>
 #include <string>
 
 typedef struct memo_table_ints {
